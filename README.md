@@ -1,1 +1,3 @@
-BME_LessonPlans
+# Lesson plans code
+
+You can download the lesson plans from here...
